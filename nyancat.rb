@@ -1,4 +1,4 @@
-require "doublehelix"
+require "./doublehelix"
 
  CG
 C--G
